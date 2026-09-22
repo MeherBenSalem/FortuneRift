@@ -1,0 +1,33 @@
+{
+  "id": "the_vault",
+  "name": "The Vault",
+  "description": "A vault you can loot before it seals.",
+  "weight": 10,
+  "rarity": "EPIC",
+  "category": "STRUCTURE",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": true,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": true,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "the_vault",
+  "behavior": "vault"
+}

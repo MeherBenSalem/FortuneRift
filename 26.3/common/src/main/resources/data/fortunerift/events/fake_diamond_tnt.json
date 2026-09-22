@@ -1,0 +1,33 @@
+{
+  "id": "fake_diamond_tnt",
+  "name": "Fake Diamonds",
+  "description": "Diamonds that were TNT.",
+  "weight": 10,
+  "rarity": "UNCOMMON",
+  "category": "TRAP",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": false,
+  "destructive": false,
+  "terrain": false,
+  "tnt": true,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "fake_diamond_tnt",
+  "behavior": "fake_tnt"
+}

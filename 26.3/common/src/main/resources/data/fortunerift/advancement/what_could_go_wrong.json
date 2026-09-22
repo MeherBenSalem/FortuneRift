@@ -1,0 +1,22 @@
+{
+  "parent": "fortunerift:feeling_lucky",
+  "display": {
+    "icon": {
+      "id": "fortunerift:fortune_rift"
+    },
+    "title": {
+      "text": "What Could Go Wrong?"
+    },
+    "description": {
+      "text": "Open 25 Fortune Rifts."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

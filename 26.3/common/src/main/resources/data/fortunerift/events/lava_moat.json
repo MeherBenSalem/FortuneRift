@@ -1,0 +1,33 @@
+{
+  "id": "lava_moat",
+  "name": "Lava Moat",
+  "description": "A lava ring that turns back to stone.",
+  "weight": 10,
+  "rarity": "RARE",
+  "category": "TRAP",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": false,
+  "destructive": true,
+  "terrain": true,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "lava_moat",
+  "behavior": "lava"
+}

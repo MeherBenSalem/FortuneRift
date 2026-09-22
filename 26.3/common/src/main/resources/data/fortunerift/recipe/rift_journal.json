@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:book",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "fortunerift:rift_journal",
+    "count": 1
+  }
+}

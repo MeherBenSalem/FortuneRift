@@ -1,0 +1,22 @@
+{
+  "parent": "fortunerift:what_could_go_wrong",
+  "display": {
+    "icon": {
+      "id": "fortunerift:fortune_rift"
+    },
+    "title": {
+      "text": "Professional Gambler"
+    },
+    "description": {
+      "text": "Open 100 Fortune Rifts."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

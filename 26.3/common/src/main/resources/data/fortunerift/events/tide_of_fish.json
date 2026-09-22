@@ -1,0 +1,34 @@
+{
+  "id": "tide_of_fish",
+  "name": "Tide of Fish",
+  "description": "Fish and prismarine.",
+  "weight": 10,
+  "rarity": "COMMON",
+  "category": "WORLD_EVENT",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "type": "loot_burst",
+  "behavior": "loot:fortunerift:common:3",
+  "loot_table": "fortunerift:common"
+}

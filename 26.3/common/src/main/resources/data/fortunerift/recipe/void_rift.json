@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fortunerift:fortune_rift",
+    "minecraft:ender_eye"
+  ],
+  "result": {
+    "id": "fortunerift:void_rift",
+    "count": 1
+  }
+}

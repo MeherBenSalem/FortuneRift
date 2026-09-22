@@ -1,0 +1,33 @@
+{
+  "id": "beacon_flash",
+  "name": "Beacon Flash",
+  "description": "A short burst of haste and regeneration.",
+  "weight": 10,
+  "rarity": "UNCOMMON",
+  "category": "REWARD",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "type": "status_effect",
+  "behavior": "effect:minecraft:regeneration:20:1"
+}

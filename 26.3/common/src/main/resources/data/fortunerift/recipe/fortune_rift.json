@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OGO",
+    "GAG",
+    "OGO"
+  ],
+  "key": {
+    "O": "minecraft:obsidian",
+    "G": "minecraft:gold_ingot",
+    "A": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "fortunerift:fortune_rift",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "fortunerift:feeling_lucky",
+  "display": {
+    "icon": {
+      "id": "fortunerift:fortune_rift"
+    },
+    "title": {
+      "text": "Jackpot"
+    },
+    "description": {
+      "text": "Trigger an epic reward."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

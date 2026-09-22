@@ -1,0 +1,12 @@
+{
+  "block.fortunerift.fortune_rift": "Fortune Rift",
+  "block.fortunerift.blessed_rift": "Blessed Rift",
+  "block.fortunerift.cursed_rift": "Cursed Rift",
+  "block.fortunerift.ancient_rift": "Ancient Rift",
+  "block.fortunerift.void_rift": "Void Rift",
+  "block.fortunerift.mythic_rift": "Mythic Rift",
+  "item.fortunerift.rift_journal": "Rift Journal",
+  "item.fortunerift.rift_fragment": "Rift Fragment",
+  "item.fortunerift.rift_heart": "Rift Heart",
+  "itemGroup.fortunerift": "FortuneRift"
+}

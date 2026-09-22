@@ -1,0 +1,33 @@
+{
+  "id": "short_storm",
+  "name": "Short Storm",
+  "description": "Thunder for a minute, then the old weather returns.",
+  "weight": 10,
+  "rarity": "UNCOMMON",
+  "category": "WORLD_EVENT",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "short_storm",
+  "behavior": "storm"
+}

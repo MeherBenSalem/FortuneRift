@@ -1,0 +1,33 @@
+{
+  "id": "pillager_patrol",
+  "name": "Pillager Patrol",
+  "description": "A patrol with no raid omen.",
+  "weight": 10,
+  "rarity": "RARE",
+  "category": "MOB",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": false,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "type": "mob_spawn",
+  "behavior": "mob:minecraft:pillager:4"
+}

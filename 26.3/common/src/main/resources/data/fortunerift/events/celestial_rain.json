@@ -1,0 +1,33 @@
+{
+  "id": "celestial_rain",
+  "name": "Celestial Rain",
+  "description": "Loot, creatures, and blasts fall for half a minute.",
+  "weight": 10,
+  "rarity": "MYTHIC",
+  "category": "WORLD_EVENT",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": true,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": true,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "celestial_rain",
+  "behavior": "celestial"
+}

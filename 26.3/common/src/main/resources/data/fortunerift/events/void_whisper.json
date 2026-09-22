@@ -1,0 +1,33 @@
+{
+  "id": "void_whisper",
+  "name": "Void Whisper",
+  "description": "You are shifted to a nearby safe spot.",
+  "weight": 10,
+  "rarity": "EPIC",
+  "category": "SECRET",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": true,
+  "positive": false,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "void_whisper",
+  "behavior": "whisper"
+}

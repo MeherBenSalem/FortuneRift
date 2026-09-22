@@ -1,0 +1,22 @@
+{
+  "parent": "fortunerift:jackpot",
+  "display": {
+    "icon": {
+      "id": "fortunerift:fortune_rift"
+    },
+    "title": {
+      "text": "Chosen by Fortune"
+    },
+    "description": {
+      "text": "Trigger your first mythic event."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

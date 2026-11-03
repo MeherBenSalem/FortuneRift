@@ -9,3 +9,11 @@
 .project
 .settings/
 out/
+
+build/
+.gradle/
+target/
+run/
+runs/
+*.ipr
+*.iws

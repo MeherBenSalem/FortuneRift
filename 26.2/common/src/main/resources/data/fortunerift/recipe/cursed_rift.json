@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fortunerift:fortune_rift",
+    "minecraft:ghast_tear"
+  ],
+  "result": {
+    "id": "fortunerift:cursed_rift",
+    "count": 1
+  }
+}

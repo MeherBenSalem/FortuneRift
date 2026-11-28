@@ -1,0 +1,22 @@
+{
+  "parent": "fortunerift:feeling_lucky",
+  "display": {
+    "icon": {
+      "id": "fortunerift:fortune_rift"
+    },
+    "title": {
+      "text": "Bad Luck"
+    },
+    "description": {
+      "text": "Trigger five dangerous events."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

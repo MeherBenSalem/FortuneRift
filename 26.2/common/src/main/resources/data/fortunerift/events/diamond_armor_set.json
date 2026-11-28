@@ -1,0 +1,33 @@
+{
+  "id": "diamond_armor_set",
+  "name": "Diamond Armor",
+  "description": "A full set of protected diamond armor.",
+  "weight": 10,
+  "rarity": "EPIC",
+  "category": "JACKPOT",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "diamond_armor_set",
+  "behavior": "armor"
+}

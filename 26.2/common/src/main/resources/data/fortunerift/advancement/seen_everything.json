@@ -1,0 +1,22 @@
+{
+  "parent": "fortunerift:professional_gambler",
+  "display": {
+    "icon": {
+      "id": "fortunerift:fortune_rift"
+    },
+    "title": {
+      "text": "I've Seen Everything"
+    },
+    "description": {
+      "text": "Discover every standard rift event."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fortunerift:fortune_rift",
+    "minecraft:echo_shard"
+  ],
+  "result": {
+    "id": "fortunerift:ancient_rift",
+    "count": 1
+  }
+}

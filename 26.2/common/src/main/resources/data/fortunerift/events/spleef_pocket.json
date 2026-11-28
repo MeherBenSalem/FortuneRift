@@ -1,0 +1,33 @@
+{
+  "id": "spleef_pocket",
+  "name": "Spleef Pocket",
+  "description": "Stay up for thirty seconds.",
+  "weight": 10,
+  "rarity": "UNCOMMON",
+  "category": "MINIGAME",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": true,
+  "destructive": false,
+  "terrain": true,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "spleef_pocket",
+  "behavior": "spleef"
+}

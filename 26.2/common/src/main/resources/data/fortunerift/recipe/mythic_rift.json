@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fortunerift:fortune_rift",
+    "minecraft:netherite_ingot",
+    "minecraft:enchanted_golden_apple"
+  ],
+  "result": {
+    "id": "fortunerift:mythic_rift",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fortunerift:fortune_rift",
+    "minecraft:glistering_melon_slice"
+  ],
+  "result": {
+    "id": "fortunerift:blessed_rift",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "second_chance",
+  "name": "Second Chance",
+  "description": "Another reward follows.",
+  "weight": 10,
+  "rarity": "RARE",
+  "category": "JACKPOT",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": false,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": false,
+  "structure": false,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "second_chance",
+  "behavior": "second"
+}

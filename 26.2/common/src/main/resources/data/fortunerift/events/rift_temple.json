@@ -1,0 +1,33 @@
+{
+  "id": "rift_temple",
+  "name": "Rift Temple",
+  "description": "A temple with a lever puzzle and a final chest.",
+  "weight": 10,
+  "rarity": "MYTHIC",
+  "category": "SECRET",
+  "dimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "min_player_distance": 0,
+  "cooldown_ticks": 0,
+  "secret": true,
+  "positive": true,
+  "destructive": false,
+  "terrain": false,
+  "tnt": false,
+  "boss": true,
+  "structure": true,
+  "variants": [
+    "fortune_rift",
+    "blessed_rift",
+    "cursed_rift",
+    "ancient_rift",
+    "void_rift",
+    "mythic_rift"
+  ],
+  "enabled": true,
+  "script": "rift_temple",
+  "behavior": "temple"
+}
